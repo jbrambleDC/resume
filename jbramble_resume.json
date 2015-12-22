@@ -1,0 +1,92 @@
+{
+	"contact": {
+		"name": "Jordan Bramble",
+		"email": "jordanbramble@gmail.com",
+		"github": "github.com/jbrambleDC"
+	},
+	"education": [
+		{
+			"name": "Georgetown",
+			"location": "Washington, DC",
+            "GPA": "4.0",
+			"degree": {
+				"type": "Masters's of Science",
+				"major": {
+					"name": "Analytics and Data Science",
+					"selected_coursework": [
+						"Optimization and Operations Research",
+						"Probabilistic Modeling",
+						"Statistical Learning"
+					]
+				}
+			}
+		},
+		{
+			"name": "George Mason University",
+			"location": "Fairfax, VA",
+			"date": "May 2014",
+			"degree": {
+				"type": "Bachelor's of Science",
+				"major": {
+					"name": "Systems Engineering and Operations Research",
+					"selected_coursework": [
+						"Deterministic Operations Research",
+						"Stochastic Operations Research",
+						"Systems Design",
+						"Engineering Management",
+						"Data Structures",
+						"Statistics",
+						"Differential Equations",
+						"Discrete Modeling and Simulation"
+					]
+				},
+				"minor": {
+					"name": "Physics"
+				}
+			}
+		}
+	],
+	"work_experience": [
+		{
+			"name": "Opower",
+			"title": "Software Engineer",
+			"location": "Arlington, VA",
+			"date": "Nov. 2014 - Jan. 2016",
+			"notes": [
+				"Perform analytics on energy usage data at the customer level (SQL, Hive, Hadoop)",
+				"Build automated tools for data analysis, data wrangling, and acquisition (Ruby, Python)",
+				"Execute custom client-level configuration and features, for SAAS product (Java, Ruby)",
+				"Communicate with IT resources at energy utility clients to coordinate proper data transfer",
+				"Analyze daily usage cycles for millions of customers, and predict seasonal changes in energy curve archetypes with",
+				"machine learning libraries and clustering algorithms (Python)",
+				"Map normalized energy usage per household at the zip code level for entire U.S. (Python, Spark, D3.js)"
+			]
+		}
+	],
+	"skills": {
+		"programming_languages": [
+			"Python",
+			"R",
+			"Java",
+			"JavaScript",
+			"Ruby"
+		],
+		"software_and_tools": [
+			"MySQL",
+			"PostgreSQL",
+			"Vim",
+			"Git",
+			"Linux",
+			"Bash",
+			"Hive",
+			"Hadoop",
+			"Django",
+			"AngularJS",
+			"Spark",
+			"Pandas",
+			"Sci-kit learn",
+			"numPy",
+			"matplotlib"
+		]
+	}
+}

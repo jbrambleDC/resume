@@ -1,0 +1,88 @@
+name: 'Jordan Bramble'
+info:
+  label: 'Data Scientist'
+  image: 'https://avatars1.githubusercontent.com/u/6984748?v=3&s=460'
+  brief: 'Data Scientist and Engineer passionate about creating things that fulfill a need, with a measurable impact. Experienced in data science, operations research, and Industrial Engineering. Currently, a Data Scientist at Cava Grill, where we are using data science to revolutionize the way people think about and consume fast casual food. Formerly, a Software Engineer at Opower, where we were saving the planet by using behavioral analytics to reduce energy consumption worldwide. Highly experienced with Python  data science tools such as Pandas, Sci-kit learn, Bokeh, and NumPy. Further work experience available on LinkedIn. '
+contact:
+  email: jordanbramble@gmail.com
+  phone: 757-434-2534
+  website: www.github.com/jbrambleDC
+location:
+  city: Arlington
+  region: Virginia
+  country: US
+  code: '22209'
+  address: '1410 N Scott St. Apt. 1065'
+employment:
+  history:
+    -
+      position: 'Software Engineer'
+      employer: Opower
+      start: '2014-11-03'
+      end: '2015-12-19'
+      url: 'http://opower.com'
+      highlights:
+        - 'Perform analytics on energy usage data at the customer level (SQL, Hive, Hadoop)'
+        - 'Build automated tools for data analysis, data wrangling, and acquisition (Ruby, Python)'
+        - 'Execute custom client-level configuration and features, for SAAS product (Java, Ruby)'
+        - 'Communicate with IT resources at energy utility clients to coordinate proper data transfer'
+        - 'Analyze daily usage cycles for millions of customers, and predict seasonal changes in energy curve archetypes with machine learning libraries and clustering algorithms (Python)'
+        - 'Map normalized energy usage per household at the zip code level for entire U.S. (Python, Spark, D3.js)'
+education:
+  history:
+    -
+      institution: 'Georgetown University'
+      start: '2015-01-16'
+      end: '2017-05-15'
+      grade: '4.0'
+      curriculum:
+        - 'Probablistic Models'
+        - 'Statistical Learning'
+        - 'Optimization'
+      area: 'Data Science and Analytics'
+      studyType: "Master's"
+    -
+      institution: 'George Mason University'
+      start: '2009-08-25'
+      end: '2014-05-15'
+      curriculum:
+        - 'Deterministic Operations Research'
+        - 'Stochastic Operations Research'
+        - 'Data Structures'
+        - 'Discrete Event Modeling and Simulation'
+      area: 'Systems Engineering and Operations Research, and Physics'
+      studyType: "Bachelor's"
+skills:
+  sets:
+    -
+      name: Languages
+      skills:
+        - Python
+        - R
+        - Javascript
+        - Java
+        - Ruby
+        - MATLAB
+        - SQL
+    -
+      name: 'Software and Tools'
+      skills:
+        - SQL
+        - MongoDB
+        - Git
+        - 'Numpy & SciPy'
+        - Pandas
+        - 'Sci-kit Learn'
+        - AngularJS
+        - D3.js
+        - Spark
+        - Bokeh
+        - matplotlib
+        - Hive
+        - Django
+social:
+  -
+    label: LinkedIn
+    network: LinkedIn
+    url: 'http://www.linkedin.com/pub/jordan-bramble/74/472/191/'
+    user: ""

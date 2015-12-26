@@ -8,16 +8,16 @@ contact:
   phone: 757-434-2534
   website: www.github.com/jbrambleDC
 location:
-  city: Arlington
-  region: Virginia
-  country: US
+  city: 'Arlington'
+  region: 'Virginia'
+  country: 'US'
   code: '22209'
   address: '1410 N Scott St. Apt. 1065'
 employment:
   history:
     -
       position: 'Software Engineer'
-      employer: Opower
+      employer: 'Opower'
       start: '2014-11-03'
       end: '2015-12-19'
       url: 'http://opower.com'
@@ -55,7 +55,7 @@ education:
 skills:
   sets:
     -
-      name: Languages
+      name: 'Languages'
       skills:
         - Python
         - R

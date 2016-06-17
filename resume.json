@@ -6,7 +6,7 @@
     "email": "jordanbramble@gmail.com",
     "phone": "757-434-2534",
     "website": "www.github.com/jbrambleDC",
-    "summary": "Data Scientist and Engineer passionate about creating things that fulfill a need, with a measurable impact. Experienced in data science, operations research, and Industrial Engineering. Currently, a Data Scientist at Cava Grill, where we are using data science to revolutionize the way people think about and consume fast casual food. Formerly, a Software Engineer at Opower, where we were saving the planet by using behavioral analytics to reduce energy consumption worldwide. Highly experienced with Python  data science tools such as Pandas, Sci-kit learn, Bokeh, and NumPy. Further work experience available on LinkedIn. ",
+    "summary": "Data Scientist and Engineer passionate about creating things that fulfill a need, with a measurable impact. Experienced in data science, machine learning, operations research, and Industrial Engineering. Currently, a Data Scientist at Cava Grill, where we are using data science to revolutionize the way people think about and consume fast casual food. Formerly, a Software Engineer at Opower, where we were saving the planet by using behavioral analytics to reduce energy consumption worldwide. Highly experienced with Python data science tools such as Pandas, Sci-kit learn, Bokeh, and NumPy. Occasional contributer to open source projects such as Bokeh. Further work experience available on LinkedIn. View my open source code on Github.",
     "location": {
       "address": "1410 N Scott St. Apt. 1065",
       "postalCode": "22209",
@@ -23,6 +23,24 @@
     ]
   },
   "work": [
+    {
+      "company": "Cava Grill",
+      "position": "Data Scientist",
+      "website": "http://cavagrill.com/",
+      "startDate": "2016-01-03",
+      "summary": "",
+      "highlights": [
+        "Aggregate data from Yelp and Twitter, perform NLP and topical modeling. Build and maintain dashboards for resultant analysis",
+        "Build automated tooling and dashboards for monitoring product usage and exporting data for non technical employees",
+        "Use Machine Learning and Stochastic Modeling to predict demand, model inventory, and make suggested invoices",
+        "Build Internet of Things sensors using Raspberry Pi to conduct Queing Simulations and model other in-store Stochastic Processes, with a goal of saving ~$1M in lost revenue",
+        "Build and maintain open source tools for database connections",
+        "Lead code review for ETL applications and all automated proccesses",
+        "Design and administrate PostgreSQL database",
+        "Interview candidates for roles such as DevOps and Full Stack Engineer",
+        "Contribute to Open Source projects such as Bokeh"
+      ]
+    },
     {
       "company": "Opower",
       "position": "Software Engineer",
@@ -48,11 +66,12 @@
       "studyType": "Master's",
       "startDate": "2015-01-16",
       "endDate": "2017-05-15",
-      "gpa": "4.0",
+      "gpa": "3.7",
       "courses": [
         "Probablistic Models",
         "Statistical Learning",
-        "Optimization"
+        "Optimization",
+        "Massive Data Fundamentals"
       ]
     },
     {
@@ -102,7 +121,10 @@
         "Bokeh",
         "matplotlib",
         "Hive",
-        "Django"
+        "Django",
+        "Hadoop",
+        "Pig",
+        "AWS"
       ]
     }
   ],
